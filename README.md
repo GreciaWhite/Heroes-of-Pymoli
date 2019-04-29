@@ -1,4 +1,6 @@
 # Heroes-of-Pymoli
 Using Python Pandas
 
-![HeroesofPymoli](https://github.com/GreciaWhite/Heroes-of-Pymoli---Heroes-of-Pymoli/blob/master/Fantasy.jpg)
+![HeroesofPymoli](https://github.com/GreciaWhite/Heroes-of-Pymoli/blob/master/Fantasy.jpg)
+
+
