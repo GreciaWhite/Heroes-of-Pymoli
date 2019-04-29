@@ -26,7 +26,7 @@ Total Number of Players <br>
 
 ### Purchasing Analysis (Gender)
 * The below each broken by gender
-''' Purchase Count
+    Purchase Count
 ''' Average Purchase Price
 ''' Total Purchase Value
 ''' Average Purchase Total per Person by Gender <br>
