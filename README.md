@@ -55,11 +55,11 @@ Total Number of Players <br>
 
 ### Most Profitable Items
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
-''' Item ID
-''' Item Name
-''' Purchase Count
-''' Item Price
-''' Total Purchase Value <br>
+   * Item ID
+   * Item Name
+   * Purchase Count
+   * Item Price
+  * Total Purchase Value <br>
  
 As final considerations: <br>
 
