@@ -1,5 +1,5 @@
 # Heroes-of-Pymoli 
-Using Python Pandas 
+Using the Pandas Library and Jupyter Notebook
 
 ![HeroesofPymoli](https://github.com/GreciaWhite/Heroes-of-Pymoli/blob/master/Fantasy.jpg)
 
@@ -63,6 +63,6 @@ Total Number of Players <br>
  
 As final considerations: <br>
 
-* You must use the Pandas Library and the Jupyter Notebook.
+* You must use the Pandas Library and Jupyter Notebook.
 * You must submit a link to your Jupyter Notebook with the viewable Data Frames.
 * You must include a written description of three observable trends based on the data.
